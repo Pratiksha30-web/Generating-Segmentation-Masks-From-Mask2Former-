@@ -1,0 +1,1 @@
+# Generating-Segmentation-Masks-From-Mask2Former-
